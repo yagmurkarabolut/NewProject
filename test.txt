@@ -17,3 +17,5 @@ $ git config --global user.email johndoe@example.com
 3. aşama: "git push origin master" | "git push origin front" => hangi branch altında çalışıyorsak onu yazmamız gerekiyor.
 
 * git clone https://github.com/yagmurkarabolut/NewProject.git
+
+* versiyon değiştirildi: git pull origin master
