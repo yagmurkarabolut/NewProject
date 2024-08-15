@@ -21,3 +21,5 @@ $ git config --global user.email johndoe@example.com
 * versiyon değiştirildi: git pull origin master
 
 * force komutu: ne olursa olsun ez.
+
+*vsvsvsmbnsdjvn
