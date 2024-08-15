@@ -1,0 +1,15 @@
+TEST AMAÇLIDIR.
+
+ilk aşama : Her bilgisayar için Git Global'de isim ve mail tanımlanmalıdır.
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+* Her projede birer kere 
+1. aşama : Git Tanımlanır.
+-> git init
+
+2. aşama: Repo tanımlanır.
+-> git remote add origin https://github.com/yagmurkarabolut/NewProject.git
+
+* Her geliştirme sonrası
+1 .aşama: 
