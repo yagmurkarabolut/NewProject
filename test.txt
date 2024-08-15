@@ -13,4 +13,5 @@ $ git config --global user.email johndoe@example.com
 
 * Her geliştirme sonrası
 1 .aşama: "git add ". // her şeyi ekler // or "git add test.txt" // sadece bir dosyayı gönder demek // => dosyaları paket eder.
-2. aşama: "git commit -m or -am "ilk yükleme" => pakete mesap eklenir.
+2. aşama: "git commit -m or -am "ilk yükleme" => pakete mesaj eklenir.
+3. aşama: "git push origin master" | "git push origin front" => hangi branch altında çalışıyorsak onu yazmamız gerekiyor.
